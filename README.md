@@ -2,6 +2,8 @@
 
 Real-time greenhouse sensor monitoring built with **Next.js**, **Supabase** (PostgreSQL + Realtime), and **Recharts**. Designed as a portfolio project demonstrating time-series database design, real-time data pipelines, and interactive dashboards.
 
+**Live Demo:** [smart-gh-iot.vercel.app](https://smart-gh-iot.vercel.app)
+
 ![Dark Theme Dashboard](https://img.shields.io/badge/theme-dark-gray?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-green?style=flat-square)
 
 ---
